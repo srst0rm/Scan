@@ -1,0 +1,5 @@
+login
+categories.php
+robots.txt
+hpinfo.php
+admin/
